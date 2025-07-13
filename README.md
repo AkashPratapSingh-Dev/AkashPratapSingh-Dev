@@ -183,17 +183,41 @@
 
 
 
+
+
+<div align="center">
+
 ## 📊 My Github Stats
-<p align="center">
-<a href="https://github.com/Shanisoni/github-readme-stats"><img alt="Shanisoni" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanisoni&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</p>
+
+![](https://github-readme-stats.vercel.app/api?username=AkashPratapSingh-Dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AkashPratapSingh-Dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashPratapSingh-Dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=AkashPratapSingh-Dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=AkashPratapSingh-Dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 
 
  ##
- 
- ![snake gif](https://github.com/Shanisoni/Shanisoni/blob/output/github-snake-dark.svg)
 
 <p align="center">
+  <img src="https://github.com/Shanisoni/Shanisoni/blob/output/github-snake-dark.svg" alt="snake gif" />
+</p>
 
- </p>
+
+
 
